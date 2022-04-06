@@ -1,0 +1,1682 @@
+{
+  "meals": [
+    {
+      "id": "117000",
+      "created": "2022-02-08T20:14:09+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/117000/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 24,
+          "valueWithPrecision": 24,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 41,
+          "valueWithPrecision": 41,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 51,
+          "valueWithPrecision": 51,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 655,
+          "valueWithPrecision": 655,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "Beef",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 36,
+                "valueWithPrecision": 36,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 47,
+                "valueWithPrecision": 46.8,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 520,
+                "valueWithPrecision": 520.2,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Eggplant",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 7,
+                "valueWithPrecision": 7.2,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 4,
+                "valueWithPrecision": 3.6,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 1,
+                "valueWithPrecision": 0.9,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 58,
+                "valueWithPrecision": 58.5,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Corn",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 17,
+                "valueWithPrecision": 17.1,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 1,
+                "valueWithPrecision": 0.9,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 3,
+                "valueWithPrecision": 2.7,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 77,
+                "valueWithPrecision": 77.4,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        }
+      ]
+    },
+    {
+      "id": "116999",
+      "created": "2022-02-08T13:13:12+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116999/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 57,
+          "valueWithPrecision": 57,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 101,
+          "valueWithPrecision": 101,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 56,
+          "valueWithPrecision": 56,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 1350,
+          "valueWithPrecision": 1350,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "French Fries",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 54,
+                "valueWithPrecision": 54,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 21,
+                "valueWithPrecision": 21,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 4.5,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 411,
+                "valueWithPrecision": 411,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Cream",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 3,
+                "valueWithPrecision": 3,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 37,
+                "valueWithPrecision": 37,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 2,
+                "valueWithPrecision": 2,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 345,
+                "valueWithPrecision": 345,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Pork",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 31,
+                "valueWithPrecision": 30.6,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 49,
+                "valueWithPrecision": 48.6,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 486,
+                "valueWithPrecision": 486,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Butter",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 12,
+                  "valueWithPrecision": 12.15,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.15,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 108,
+                  "valueWithPrecision": 107.55,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            },
+            {
+              "name": "Parsley",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.03,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.005,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.015,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 0,
+                  "valueWithPrecision": 0.185,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "116998",
+      "created": "2022-02-07T20:12:19+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116998/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 79,
+          "valueWithPrecision": 79,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 33,
+          "valueWithPrecision": 33,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 31,
+          "valueWithPrecision": 31,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 723,
+          "valueWithPrecision": 723,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "French Fries",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 54,
+                "valueWithPrecision": 54,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 21,
+                "valueWithPrecision": 21,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 4.5,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 411,
+                "valueWithPrecision": 411,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Ketchup",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0.4,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 19,
+                "valueWithPrecision": 19.4,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Pork Schnitzel",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 20,
+                "valueWithPrecision": 19.5,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 12,
+                "valueWithPrecision": 12,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 26,
+                "valueWithPrecision": 25.5,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 293,
+                "valueWithPrecision": 292.5,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        }
+      ]
+    },
+    {
+      "id": "116997",
+      "created": "2022-02-07T12:11:49+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116997/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 36,
+          "valueWithPrecision": 36,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 42,
+          "valueWithPrecision": 42,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 56,
+          "valueWithPrecision": 56,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 722,
+          "valueWithPrecision": 722,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "Beef",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 36,
+                "valueWithPrecision": 36,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 47,
+                "valueWithPrecision": 46.8,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 520,
+                "valueWithPrecision": 520.2,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Cous Cous",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 35,
+                "valueWithPrecision": 34.5,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 6,
+                "valueWithPrecision": 6,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 168,
+                "valueWithPrecision": 168,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Broccoli",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 7,
+                "valueWithPrecision": 7,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 3,
+                "valueWithPrecision": 3,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 34,
+                "valueWithPrecision": 34,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        }
+      ]
+    },
+    {
+      "id": "116994",
+      "created": "2022-02-06T19:10:28+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116994/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 105,
+          "valueWithPrecision": 105,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 92,
+          "valueWithPrecision": 92,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 59,
+          "valueWithPrecision": 59,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 1568,
+          "valueWithPrecision": 1568,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "Pork",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 31,
+                "valueWithPrecision": 30.6,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 49,
+                "valueWithPrecision": 48.6,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 486,
+                "valueWithPrecision": 486,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Cream",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 3,
+                "valueWithPrecision": 3,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 37,
+                "valueWithPrecision": 37,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 2,
+                "valueWithPrecision": 2,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 345,
+                "valueWithPrecision": 345,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        { "supplementaryIngredients": [] },
+        {
+          "mainIngredient": {
+            "name": "Ketchup",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0.4,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 19,
+                "valueWithPrecision": 19.4,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "French Fries",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 54,
+                "valueWithPrecision": 54,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 21,
+                "valueWithPrecision": 21,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 4.5,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 411,
+                "valueWithPrecision": 411,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Potato",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 29,
+                "valueWithPrecision": 28.5,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 3,
+                "valueWithPrecision": 3,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 3,
+                "valueWithPrecision": 3,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 156,
+                "valueWithPrecision": 156,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Beer",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 14,
+                "valueWithPrecision": 14,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 151,
+                "valueWithPrecision": 150.5,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        }
+      ]
+    },
+    {
+      "id": "116993",
+      "created": "2022-02-06T12:08:41+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116993/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 17,
+          "valueWithPrecision": 17,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 21,
+          "valueWithPrecision": 21,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 44,
+          "valueWithPrecision": 44,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 337,
+          "valueWithPrecision": 337,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "Arugula",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 7,
+                "valueWithPrecision": 7.2,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 2,
+                "valueWithPrecision": 1.8,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5.4,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Feta",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 2,
+                  "valueWithPrecision": 2,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 11,
+                  "valueWithPrecision": 10.5,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 7,
+                  "valueWithPrecision": 7,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 132,
+                  "valueWithPrecision": 132,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "mainIngredient": {
+            "name": "Lemon",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 7,
+                "valueWithPrecision": 7.2,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 1,
+                "valueWithPrecision": 0.8,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 23,
+                "valueWithPrecision": 23.2,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Salmon Grilled",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5.4,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 4,
+                "valueWithPrecision": 3.6,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 31,
+                "valueWithPrecision": 30.6,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 182,
+                "valueWithPrecision": 181.8,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        }
+      ]
+    },
+    {
+      "id": "116992",
+      "created": "2022-02-05T19:07:57+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116992/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 23,
+          "valueWithPrecision": 23,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 91,
+          "valueWithPrecision": 91,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 41,
+          "valueWithPrecision": 41,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 752,
+          "valueWithPrecision": 752,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "Beans",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 19,
+                "valueWithPrecision": 18.9,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 6,
+                "valueWithPrecision": 6.3,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 104,
+                "valueWithPrecision": 103.5,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "White Rice",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 50,
+                "valueWithPrecision": 50.4,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5.4,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 232,
+                "valueWithPrecision": 232.2,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Curry Sauce",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 4,
+                  "valueWithPrecision": 4.4,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 1,
+                  "valueWithPrecision": 1.2,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.4,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 27,
+                  "valueWithPrecision": 27.2,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "mainIngredient": {
+            "name": "Meat Loaf",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 13,
+                "valueWithPrecision": 12.6,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 22,
+                "valueWithPrecision": 21.6,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 29,
+                "valueWithPrecision": 28.8,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 365,
+                "valueWithPrecision": 365.4,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Tomato Sauce",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 5,
+                  "valueWithPrecision": 4.55,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 1,
+                  "valueWithPrecision": 0.65,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 24,
+                  "valueWithPrecision": 24.05,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "116991",
+      "created": "2022-02-05T12:06:40+01:00[Europe/Zurich]",
+      "image": "https://d15rxdoyo1waj2.cloudfront.net/production/image?b=snaq-app-production&i=meals/116991/image.jpg&w=1200&q=90",
+      "nutrition": {
+        "fatTotal": {
+          "name": "Fats",
+          "unit": "Gram",
+          "value": 37,
+          "valueWithPrecision": 37,
+          "abbreviation": { "unit": "g", "nutrient": "Fat" }
+        },
+        "carbohydrates": {
+          "name": "Carbohydrates",
+          "unit": "Gram",
+          "value": 79,
+          "valueWithPrecision": 79,
+          "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+        },
+        "protein": {
+          "name": "Protein",
+          "unit": "Gram",
+          "value": 68,
+          "valueWithPrecision": 68,
+          "abbreviation": { "unit": "g", "nutrient": "Protein" }
+        },
+        "energy": {
+          "name": "Calories",
+          "unit": "Kilocalories",
+          "value": 872,
+          "valueWithPrecision": 872,
+          "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+        }
+      },
+      "mealComponents": [
+        {
+          "mainIngredient": {
+            "name": "Pork",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 31,
+                "valueWithPrecision": 30.6,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 49,
+                "valueWithPrecision": 48.6,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 486,
+                "valueWithPrecision": 486,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Onion",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 4,
+                  "valueWithPrecision": 3.5,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.35,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 15,
+                  "valueWithPrecision": 14.7,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "mainIngredient": {
+            "name": "Green Salad",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5.4,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 4,
+                "valueWithPrecision": 3.6,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 29,
+                "valueWithPrecision": 28.8,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Tomato",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 2,
+                  "valueWithPrecision": 1.8,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.45,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 8,
+                  "valueWithPrecision": 8.1,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            },
+            {
+              "name": "Cucumber",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 1,
+                  "valueWithPrecision": 0.9,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0.45,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 5,
+                  "valueWithPrecision": 5.4,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            },
+            {
+              "name": "Carrot",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 5,
+                  "valueWithPrecision": 5,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 1,
+                  "valueWithPrecision": 0.5,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 25,
+                  "valueWithPrecision": 25,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "mainIngredient": {
+            "name": "Arugula Lettuce",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 6,
+                "valueWithPrecision": 6,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 2,
+                "valueWithPrecision": 1.5,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 4.5,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": [
+            {
+              "name": "Vinaigrette Dressing",
+              "nutrition": {
+                "carbohydrates": {
+                  "name": "Carbohydrates",
+                  "unit": "Gram",
+                  "value": 1,
+                  "valueWithPrecision": 1.45,
+                  "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+                },
+                "fatTotal": {
+                  "name": "Fats",
+                  "unit": "Gram",
+                  "value": 4,
+                  "valueWithPrecision": 4.06,
+                  "abbreviation": { "unit": "g", "nutrient": "Fat" }
+                },
+                "protein": {
+                  "name": "Protein",
+                  "unit": "Gram",
+                  "value": 0,
+                  "valueWithPrecision": 0,
+                  "abbreviation": { "unit": "g", "nutrient": "Protein" }
+                },
+                "energy": {
+                  "name": "Calories",
+                  "unit": "Kilocalories",
+                  "value": 42,
+                  "valueWithPrecision": 42.195,
+                  "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "mainIngredient": {
+            "name": "White Rice",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 50,
+                "valueWithPrecision": 50.4,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5.4,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 232,
+                "valueWithPrecision": 232.2,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        },
+        {
+          "mainIngredient": {
+            "name": "Spinach",
+            "nutrition": {
+              "carbohydrates": {
+                "name": "Carbohydrates",
+                "unit": "Gram",
+                "value": 5,
+                "valueWithPrecision": 5.2,
+                "abbreviation": { "unit": "g", "nutrient": "Carbs" }
+              },
+              "fatTotal": {
+                "name": "Fats",
+                "unit": "Gram",
+                "value": 0,
+                "valueWithPrecision": 0,
+                "abbreviation": { "unit": "g", "nutrient": "Fat" }
+              },
+              "protein": {
+                "name": "Protein",
+                "unit": "Gram",
+                "value": 4,
+                "valueWithPrecision": 3.9,
+                "abbreviation": { "unit": "g", "nutrient": "Protein" }
+              },
+              "energy": {
+                "name": "Calories",
+                "unit": "Kilocalories",
+                "value": 30,
+                "valueWithPrecision": 29.9,
+                "abbreviation": { "unit": "kcal", "nutrient": "kcal" }
+              }
+            }
+          },
+          "supplementaryIngredients": []
+        }
+      ]
+    }
+  ]
+}
